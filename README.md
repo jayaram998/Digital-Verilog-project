@@ -4,7 +4,7 @@ Hi there this is jayaram,. I'm learning verilog HDL by doing Digital design and 
 Design and testbench systemverilog code 
 Simulation tool is https://www.edaplayground.com/
 
-Write both design and testbench code and save before the code.
+Write both design and testbench code and save it before run the code.
 
 Here is tool setting
 
